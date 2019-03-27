@@ -1,0 +1,19 @@
+{
+  "name": "game24",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "combinations": "^0.1.1",
+    "js-combinatorics": "^0.5.4",
+    "lodash": "^4.17.11",
+    "lodash.combinations": "^18.9.19",
+    "ml-combinations": "^1.1.0",
+    "permutation": "0.0.1"
+  }
+}
